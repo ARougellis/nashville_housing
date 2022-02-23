@@ -1,2 +1,2 @@
 # nashville_housing
-In this project, I used SQL to clean a Nashville Housing dataset. 
+In this project, I practice SQL by using it to clean a Nashville Housing dataset. 
